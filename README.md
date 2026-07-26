@@ -35,6 +35,12 @@ The implementation focused on:
 
 ---
 
+###Architecture Diagram
+
+![Architecture diagram](screenshots/architecture)
+
+Screenshot showing the architecture of the project.
+
 ## 🛠️ Technologies and AWS Services
 
 ### AWS Services
@@ -489,41 +495,6 @@ The project successfully demonstrated:
 - Troubleshooting of database connectivity issues
 
 ---
-
-## 📌 Project Summary
-
-```text
-SOURCE
-Amazon EC2
-|
-├── Windows Server
-├── SQL Server Express
-└── RestaurantDB
-       |
-       | Port 1433
-       v
-AWS DMS
-|
-├── Source Endpoint
-├── Replication Instance
-├── Migration Task
-└── Target Endpoint
-       |
-       | Port 3306
-       v
-TARGET
-Amazon RDS MySQL
-|
-└── Migrated Restaurant Data
-        |
-        v
-AWS CloudShell
-        |
-        v
-Table Content Verified
-        |
-        v
-23 Rows | 0 Errors | Validated
 
 👩‍💻 Author
 
