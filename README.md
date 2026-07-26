@@ -229,7 +229,7 @@ Screenshot showing the Windows Server EC2 instance used to host the SQL Server s
 
 ![Amazon SQL Server Express Database](screenshots/sqlserverdatabase.png)
 
-Screenshot showing SQL Server Express running inside the EC2 Windows Server environment with the restaurant database, tables, and source data.
+Screenshot showing SQL Server Express running inside the EC2 Windows Server environment with the RestaurantDB database, tables, and source data.
 
 ### Amazon RDS Instance
 
