@@ -37,7 +37,7 @@ The implementation focused on:
 
 ###Architecture Diagram
 
-![Architecture diagram](screenshots/architecture)
+![Architecture diagram](screenshots/architecture.png)
 
 Screenshot showing the architecture of the project.
 
